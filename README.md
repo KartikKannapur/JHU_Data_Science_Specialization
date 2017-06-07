@@ -1,2 +1,5 @@
-# JHU_Data_Science_Specialization
+# JHU Data Science Specialization
+---------------------------------
+
+
 The Johns Hopkins University Data Science Specialization Course on Coursera
